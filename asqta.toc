@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: asqta
+## Notes: automatically update your lag tolerance
+## Author: burial
+## Version: 1
+
+main.lua
